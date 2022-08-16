@@ -18,7 +18,6 @@
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-![d8ba46436c1334c853ccf798e5fea101](https://user-images.githubusercontent.com/108038950/184801165-d520f444-8493-4ffd-a804-4f257db4931b.gif)
 
 </div>
 
