@@ -4,7 +4,7 @@
 - 📖 Estudando React
 - 📫 Contate-me no e-mail: gabrielsantanacarneiro@hotmail.com
 - 😊 Pronomes: ele/dele
-- ⚡ Curiosidades: Coleciono HQs, grande fã de basquete.
+- ⚡ Curiosidades: Coleciono HQs e sou um grande fã de basquete.
 
 <div align="center">
   <a href="https://github.com/GabrielSantanaCarneiro">
