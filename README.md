@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel Santana Carneiro. 😄
 
-- 🔭 Trabalho atualmente com Front-end
+- 🔭 Buscando primeiro emprego com Front-end
 - 📖 Estudando React
 - 📫 Contate-me no e-mail: gabrielsantanacarneiro@hotmail.com
 - 😊 Pronomes: ele/dele
