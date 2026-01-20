@@ -16,7 +16,7 @@ Atualmente, dedico-me a aprofundar minhas habilidades técnicas e a acompanhar a
   <a href="https://www.instagram.com/gugusykes" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="LINK_DO_SEU_PDF_AQUI" target="_blank">
+  <a href="https://github.com/GabrielSantanaCarneiro/GabrielSantanaCarneiro/blob/b90dd983f38aa41cf3374d2c6d2b309c4407c640/Gabriel_SantanaCarneiro_Curr%C3%ADculoAtualizado.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Currículo_PDF-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Currículo">
   </a>
 </div>
